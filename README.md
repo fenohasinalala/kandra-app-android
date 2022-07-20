@@ -4,8 +4,10 @@ L'application Kandra vous permet de trouver les offres d'emploi du moment à Mad
 
 Version	:
 1.0
+
 Requis :
 Android 8 +
+
 Date de mise à jour :
 20 juillet 2022
 
